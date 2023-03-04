@@ -1,2 +1,2 @@
 # trading-bot
-Binance API Trading Bot
+Binance API Trading Bot on TestNet
